@@ -1,1 +1,2 @@
-//trying to add all files in the current directory and all subsequent directories to the staging area.
+Hi here stantiago, starting my TheOdinProyect.com path!
+this here is my gamechanging card for a better life!
